@@ -8,4 +8,4 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 
 [Programa](https://github.com/geoprocesamiento-2020-i/00-programa/blob/master/GF-0604%20-%20Procesamiento%20de%20datos%20geogr%C3%A1ficos%20-%20Programa%20del%20curso%20-%202020-I.pdf)
 
-[01-Introducción]()
+[01 - Introducción]()
