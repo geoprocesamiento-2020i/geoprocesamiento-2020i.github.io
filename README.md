@@ -8,4 +8,4 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 
 #### Contenidos
 * [00 - Presentación](https://geoprocesamiento-2020i.github.io/00-presentacion/)
-* [01 - Introducción](https://geoprocesamiento-2020i.github.io/01-presentacion/)
+* [01 - Introducción](https://geoprocesamiento-2020i.github.io/01-introduccion/)
