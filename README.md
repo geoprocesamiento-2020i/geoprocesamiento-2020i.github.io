@@ -14,4 +14,5 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
 - [RStudio](https://rstudio.com/)
-- [R Markdown - ioslides](https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html)
+- [R Markdown - ioslides_presentation](https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html)
+- [R Markdown - html_document](https://bookdown.org/yihui/rmarkdown/html-document.html)
