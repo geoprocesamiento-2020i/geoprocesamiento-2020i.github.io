@@ -13,5 +13,5 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
-- [RStudio | Open source & professional software for data science teams](https://rstudio.com/)
+- [RStudio](https://rstudio.com/)
 - [R Markdown - ioslides](https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html)
