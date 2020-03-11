@@ -9,3 +9,9 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 #### Lecciones
 * [00 - Presentación](https://geoprocesamiento-2020i.github.io/leccion-00-presentacion/)
 * [01 - Introducción](https://geoprocesamiento-2020i.github.io/leccion-01-introduccion/)
+
+
+Este sitio ha sido construído con las siguientes herramientas y sintaxis:
+
+- [RStudio | Open source & professional software for data science teams](https://rstudio.com/)
+- [R Markdown - ioslides](https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html)
