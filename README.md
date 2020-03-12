@@ -17,4 +17,5 @@ Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 - [R Markdown - ioslides_presentation](https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html)
 - [R Markdown - html_document](https://bookdown.org/yihui/rmarkdown/html-document.html)
 
+#### Licencia de uso
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Los contenidos de este curso</span>, escrito por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/mfvargas" property="cc:attributionName" rel="cc:attributionURL">Manuel Vargas</a>, se comparten mediante una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licencia Creative Commons Atribución 4.0 Internacional</a>.
