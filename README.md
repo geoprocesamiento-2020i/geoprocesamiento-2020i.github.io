@@ -9,7 +9,10 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 #### Lecciones
 * [00 - Presentación](https://geoprocesamiento-2020i.github.io/leccion-00-presentacion/)
 * [01 - Introducción](https://geoprocesamiento-2020i.github.io/leccion-01-introduccion/)
+* [02 - Markdown](https://geoprocesamiento-2020i.github.io/leccion-02-markdown/)
 
+#### Laboratorios
+* [01 - Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
 
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
