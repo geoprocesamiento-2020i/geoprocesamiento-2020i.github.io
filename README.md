@@ -16,7 +16,10 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
+- [GitHub Pages](https://pages.github.com/)
+- [Jekyll](https://jekyllrb.com/)
 - [RStudio](https://rstudio.com/)
+- [Markdown](https://daringfireball.net/projects/markdown/)
 - [R Markdown - ioslides_presentation](https://bookdown.org/yihui/rmarkdown/ioslides-presentation.html)
 - [R Markdown - html_document](https://bookdown.org/yihui/rmarkdown/html-document.html)
 
