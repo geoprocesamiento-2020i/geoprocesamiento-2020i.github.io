@@ -15,6 +15,9 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 #### Laboratorios
 * [01 - Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
 
+#### Otros
+* [Datos utilizados durante el curso](https://github.com/geoprocesamiento-2020i/datos)
+
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
 
 - [GitHub Pages](https://pages.github.com/)
