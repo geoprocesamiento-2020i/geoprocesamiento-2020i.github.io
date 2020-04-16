@@ -7,7 +7,7 @@
 Este es un curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación R. Se estudian los fundamentos de la sintaxis de este lenguaje, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos.
 
 #### Programa
-* [Programa del curso (modificado el 2020-04-14)](https://github.com/geoprocesamiento-2020i/programa-curso/blob/master/GF-0604%20-%20Procesamiento%20de%20datos%20geogr%C3%A1ficos%20-%20Programa%20del%20curso%20-%202020-I%20(modificado%20el%202020-04-14).pdf)
+* [Programa del curso (modificado el 2020-04-14)](https://github.com/geoprocesamiento-2020i/programa-curso/blob/master/GF-0604-Procesamiento_datos_geograficos-Programa_curso-2020-I-20200414.pdf)
 
 #### Lecciones
 * [00 - Presentación](https://geoprocesamiento-2020i.github.io/leccion-00-presentacion/)
