@@ -10,8 +10,8 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [Programa del curso (modificado el 2020-04-14)](https://github.com/geoprocesamiento-2020i/programa-curso/blob/master/GF-0604-Procesamiento_datos_geograficos-Programa_curso-2020-I-20200414.pdf)
 
 #### Lecciones
-* [00 Presentación](https://geoprocesamiento-2020i.github.io/leccion-00-presentacion/)
-* [01 Introducción](https://geoprocesamiento-2020i.github.io/leccion-01-introduccion/)
+* [00 Presentación del curso](https://geoprocesamiento-2020i.github.io/leccion-00-presentacion/)
+* [01 Introducción a la arquitectura de computadoras y a los lenguajes de programación](https://geoprocesamiento-2020i.github.io/leccion-01-introduccion/)
 * [02 La sintaxis Markdown](https://geoprocesamiento-2020i.github.io/leccion-02-markdown/)
 * [04 El lenguaje de programación R - Introducción](https://geoprocesamiento-2020i.github.io/leccion-04-r-introduccion/)
 
