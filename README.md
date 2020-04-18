@@ -10,13 +10,14 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [Programa del curso (modificado el 2020-04-14)](https://github.com/geoprocesamiento-2020i/programa-curso/blob/master/GF-0604-Procesamiento_datos_geograficos-Programa_curso-2020-I-20200414.pdf)
 
 #### Lecciones
-* [00 - Presentación](https://geoprocesamiento-2020i.github.io/leccion-00-presentacion/)
-* [01 - Introducción](https://geoprocesamiento-2020i.github.io/leccion-01-introduccion/)
-* [02 - Markdown](https://geoprocesamiento-2020i.github.io/leccion-02-markdown/)
-* [04 - El lenguaje de programación R - Introducción](https://geoprocesamiento-2020i.github.io/leccion-04-r-introduccion/)
+* [00 Presentación](https://geoprocesamiento-2020i.github.io/leccion-00-presentacion/)
+* [01 Introducción](https://geoprocesamiento-2020i.github.io/leccion-01-introduccion/)
+* [02 Markdown](https://geoprocesamiento-2020i.github.io/leccion-02-markdown/)
+* [04 El lenguaje de programación R - Introducción](https://geoprocesamiento-2020i.github.io/leccion-04-r-introduccion/)
 
 #### Laboratorios
-* [01 - Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
+* [01 Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
+* [02 R - Graficación](https://geoprocesamiento-2020i.github.io/laboratorio-02-r-graficacion/)
 
 #### Otros
 * [Datos utilizados durante el curso](https://github.com/geoprocesamiento-2020i/datos)
