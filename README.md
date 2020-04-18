@@ -13,7 +13,7 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [00 - Presentación](https://geoprocesamiento-2020i.github.io/leccion-00-presentacion/)
 * [01 - Introducción](https://geoprocesamiento-2020i.github.io/leccion-01-introduccion/)
 * [02 - Markdown](https://geoprocesamiento-2020i.github.io/leccion-02-markdown/)
-* [04 - El lenguaje de programación R - Introducción](https://geoprocesamiento-2020i.github.io/leccion-04-r/)
+* [04 - El lenguaje de programación R - Introducción](https://geoprocesamiento-2020i.github.io/leccion-04-r-introduccion/)
 
 #### Laboratorios
 * [01 - Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
