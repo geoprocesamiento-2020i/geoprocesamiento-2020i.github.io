@@ -20,6 +20,7 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 
 #### Otros
 * [Datos utilizados durante el curso](https://github.com/geoprocesamiento-2020i/datos)
+* [Videos del curso]()
 
 
 Este sitio ha sido construído con las siguientes herramientas y sintaxis:
