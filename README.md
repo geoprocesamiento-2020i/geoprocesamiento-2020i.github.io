@@ -13,6 +13,7 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [01 Introducción a la arquitectura de computadoras y a los lenguajes de programación](https://geoprocesamiento-2020i.github.io/leccion-01-introduccion/)
 * [02 La sintaxis Markdown](https://geoprocesamiento-2020i.github.io/leccion-02-markdown/)
 * [04 El lenguaje de programación R - Introducción](https://geoprocesamiento-2020i.github.io/leccion-04-r-introduccion/)
+* [05 El lenguaje de programación R - Graficación](https://geoprocesamiento-2020i.github.io/leccion-05-r-graficacion/)
 
 #### Laboratorios
 * [01 Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
