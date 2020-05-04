@@ -14,7 +14,7 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [02 La sintaxis Markdown](https://geoprocesamiento-2020i.github.io/leccion-02-markdown/)
 * [04 El lenguaje de programación R - Introducción](https://geoprocesamiento-2020i.github.io/leccion-04-r-introduccion/)
 * [05 El lenguaje de programación R - Graficación](https://geoprocesamiento-2020i.github.io/leccion-05-r-graficacion/)
-* [06 El lenguaje de programación R - Introducción al procesamiento de datos geográficos]()
+* [06 El lenguaje de programación R - Introducción al procesamiento de datos geográficos]()  
   Lecturas previas:
   - [Geocomputation with R - Chapter 1 Introduction](https://geocompr.robinlovelace.net/intro.html)
   - [Geocomputation with R - Chapter 2 Geographic data in R](https://geocompr.robinlovelace.net/spatial-class.html)
