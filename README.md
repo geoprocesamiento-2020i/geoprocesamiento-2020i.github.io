@@ -24,6 +24,7 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 #### Laboratorios
 * [01 Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
 * [02 R - Graficación 1](https://geoprocesamiento-2020i.github.io/laboratorio-02-r-graficacion-basica/)
+* [03 R - Datos vectoriales 1](https://geoprocesamiento-2020i.github.io/laboratorio-03-r-datos-vectoriales-1/)
 
 #### Tutoriales
 * [Git](https://geoprocesamiento-2020i.github.io/tutorial-git/) (esta es una nueva versión, la versión vista en la clase del 2020-04-30 se encuentra disponible [aquí](https://geoprocesamiento-2020i.github.io/tutorial-01-git.bak/))
