@@ -32,7 +32,7 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [03 R - Datos vectoriales 1](https://geoprocesamiento-2020i.github.io/laboratorio-03-r-datos-vectoriales-1/)
 
 #### Tutoriales
-* [Git](https://geoprocesamiento-2020i.github.io/tutorial-git/) (esta es una nueva versión, la versión vista en la clase del 2020-04-30 se encuentra disponible [aquí](https://geoprocesamiento-2020i.github.io/tutorial-01-git.bak/))
+* [Git](https://geoprocesamiento-2020i.github.io/tutorial-git/)
 
 #### Otros
 * [Datos utilizados durante el curso](https://github.com/geoprocesamiento-2020i/datos)
