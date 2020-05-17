@@ -20,7 +20,7 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
   - [Geocomputation with R - Chapter 1 Introduction](https://geocompr.robinlovelace.net/intro.html)
   - [Geocomputation with R - Chapter 2 Geographic data in R](https://geocompr.robinlovelace.net/spatial-class.html)
   - (Opcional) [Why R? Webinar 004 - Robin Lovelace + Jakub Nowosad - Recent changes in R spatial](https://www.youtube.com/watch?v=Va0STgco7-4)
-* [07 El lenguaje de programación R - Datos vectoriales - operaciones con atributos]()  
+* [07 El lenguaje de programación R - Datos vectoriales - operaciones con atributos](https://geoprocesamiento-2020i.github.io/leccion-07-r-datos-vectoriales-atributos/)  
   Lecturas previas:
   - [Geocomputation with R - Chapter 3 Attribute data operations](https://geocompr.robinlovelace.net/attr.html)
  
