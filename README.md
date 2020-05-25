@@ -23,8 +23,7 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [07 El lenguaje de programación R - Datos vectoriales - operaciones con atributos](https://geoprocesamiento-2020i.github.io/leccion-07-r-datos-vectoriales-atributos/)  
   Lecturas previas:
   - [Geocomputation with R - Chapter 3 Attribute data operations](https://geocompr.robinlovelace.net/attr.html)
- 
-
+* [08 El paquete Leaflet](https://geoprocesamiento-2020i.github.io/leccion-08-leaflet/)
 
 #### Laboratorios
 * [01 Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
