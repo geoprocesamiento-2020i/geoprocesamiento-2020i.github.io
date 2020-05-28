@@ -30,6 +30,9 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [02 R - Graficación 1](https://geoprocesamiento-2020i.github.io/laboratorio-02-r-graficacion-basica/)
 * [03 R - Datos vectoriales 1](https://geoprocesamiento-2020i.github.io/laboratorio-03-r-datos-vectoriales-1/)
 
+#### Tareas programadas
+* [01 Tablero de control sobre COVID-19](https://geoprocesamiento-2020i.github.io/tarea-01-tablero-control-covid19/)
+
 #### Tutoriales
 * [Git](https://geoprocesamiento-2020i.github.io/tutorial-git/)
 * [flexdashboard](https://geoprocesamiento-2020i.github.io/tutorial-flexdashboard/)
