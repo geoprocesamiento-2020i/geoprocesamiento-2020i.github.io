@@ -30,6 +30,8 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [10 El lenguaje de programación R - Datos raster]()  
   Lecturas previas:
   - [Geocomputation with R - Chapter 2 Geographic data in R - Raster data](https://geocompr.robinlovelace.net/spatial-class.html#raster-data)
+  - [Geocomputation with R - Chapter 3 Attribute data operations - Manipulating raster objects](https://geocompr.robinlovelace.net/attr.html#manipulating-raster-objects)  
+  - [Geocomputation with R - Chapter 4 Spatial data operations - Spatial operations on raster data](https://geocompr.robinlovelace.net/spatial-operations.html#spatial-ras)  
 
 #### Laboratorios
 * [01 Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
