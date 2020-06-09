@@ -27,6 +27,9 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [09 El lenguaje de programación R - Datos vectoriales - operaciones espaciales](https://geoprocesamiento-2020i.github.io/leccion-09-r-datos-vectoriales-operaciones-espaciales/)  
   Lecturas previas:
   - [Geocomputation with R - Chapter 4 Spatial data operations](https://geocompr.robinlovelace.net/spatial-operations.html)
+* [10 El lenguaje de programación R - Datos raster]()  
+  Lecturas previas:
+  - [Geocomputation with R - Chapter 2 Geographic data in R - Raster data](https://geocompr.robinlovelace.net/spatial-class.html#raster-data)
 
 #### Laboratorios
 * [01 Markdown](https://geoprocesamiento-2020i.github.io/laboratorio-01-markdown/)
