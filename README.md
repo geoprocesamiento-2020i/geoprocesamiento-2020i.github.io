@@ -40,7 +40,8 @@ Este es un curso introductorio al procesamiento de datos geográficos mediante e
 * [04 R - Datos raster 1](https://geoprocesamiento-2020i.github.io/laboratorio-04-r-datos-raster-1/)
 
 #### Tareas programadas
-* [01 Tablero de control sobre COVID-19](https://geoprocesamiento-2020i.github.io/tarea-01-tablero-control-covid19/)
+* [01 Tablero de control sobre COVID-19 (básico)](https://geoprocesamiento-2020i.github.io/tarea-01-tablero-control-covid19/)
+* [02 Tablero de control sobre COVID-19 (avanzado)](https://geoprocesamiento-2020i.github.io/tarea-02-tablero-control-covid19/)
 
 #### Tutoriales
 * [Git](https://geoprocesamiento-2020i.github.io/tutorial-git/)
